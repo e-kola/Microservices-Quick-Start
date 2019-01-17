@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TVX.Test.ApiGateway.Business.Interfaces\TVX.Test.ApiGateway.Business.Interfaces.csproj" />
+    <ProjectReference Include="..\TVX.Test.ApiGateway.Business\TVX.Test.ApiGateway.Business.csproj" />
+    <ProjectReference Include="..\TVX.Test.ApiGateway.Models\TVX.Test.ApiGateway.Models.csproj" />
+    <ProjectReference Include="..\TVX.Test.ApiGateway.Repository.Interfaces\TVX.Test.ApiGateway.Repository.Interfaces.csproj" />
+    <ProjectReference Include="..\TVX.Test.ApiGateway.Repository\TVX.Test.ApiGateway.Repository.csproj" />
+    <ProjectReference Include="..\TVX.Test.PostsService.Business.Interfaces\TVX.Test.PostsService.Business.Interfaces.csproj" />
+    <ProjectReference Include="..\TVX.Test.PostsService.Business\TVX.Test.PostsService.Business.csproj" />
+  </ItemGroup>
+
+</Project>

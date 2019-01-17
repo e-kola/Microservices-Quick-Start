@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  tvx.test.postsservice:
+    image: tvx.test.postsservice
+    build:
+      context: .
+      dockerfile: TVX.Test.PostsService\Dockerfile
+
+  tvx.test.commentsservice:
+    image: tvx.test.commentsservice
+    build:
+      context: .
+      dockerfile: TVX.Test.CommentsService\Dockerfile
+

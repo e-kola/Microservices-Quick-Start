@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TVX.Test.PostsService.Business.Interfaces\TVX.Test.PostsService.Business.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
