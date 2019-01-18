@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace TVX.Test.Core
+namespace MicroservicesQuickStart.Core
 {
     public interface IMicroService
     {

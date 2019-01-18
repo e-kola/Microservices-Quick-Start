@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace TVX.Test.PostsService.Models
+namespace MicroservicesQuickStart.PostsService.Models
 {
     public class Post
     {

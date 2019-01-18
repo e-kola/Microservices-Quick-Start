@@ -2,11 +2,11 @@
 <Project ToolsVersion="15.0" Sdk="Microsoft.Docker.Sdk">
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.2</ProjectVersion>
-    <DockerTargetOS>Windows</DockerTargetOS>
+    <DockerTargetOS>Linux</DockerTargetOS>
     <ProjectGuid>ef0809db-574b-4512-a361-dacfdb069f55</ProjectGuid>
     <DockerLaunchBrowser>True</DockerLaunchBrowser>
     <DockerServiceUrl>http://{ServiceIPAddress}/api/values</DockerServiceUrl>
-    <DockerServiceName>tvx.test.postsservice</DockerServiceName>
+    <DockerServiceName>microservicesquickstart.postsservice.webapi</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
     <None Include="docker-compose.override.yml">

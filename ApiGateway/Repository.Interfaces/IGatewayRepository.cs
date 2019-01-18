@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TVX.Test.ApiGateway.Repository.Interfaces
+namespace MicroservicesQuickStart.ApiGateway.Repository.Interfaces
 {
     public interface IGatewayRepository
     {

@@ -1,15 +1,15 @@
 version: '3.4'
 
 services:
-  tvx.test.postsservice:
-    image: tvx.test.postsservice
+  microservicesquickstart.postsservice.webapi:
+    image: microservicesquickstart.postsservice.webapi
     build:
       context: .
-      dockerfile: TVX.Test.PostsService\Dockerfile
+      dockerfile: PostsService\WebApi\Dockerfile
 
-  tvx.test.commentsservice:
-    image: tvx.test.commentsservice
+  microservicesquickstart.commentsservice.webapi:
+    image: microservicesquickstart.commentsservice.webapi
     build:
       context: .
-      dockerfile: TVX.Test.CommentsService\Dockerfile
+      dockerfile: CommentsService\WebApi\Dockerfile
 

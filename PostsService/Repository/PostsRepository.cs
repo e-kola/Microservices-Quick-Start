@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Linq;
 
-namespace TVX.Test.PostsService.Repository
+namespace MicroservicesQuickStart.PostsService.Repository
 {
     using System.Collections.Generic;
     using Interfaces;
-    using TVX.Test.PostsService.Models;
+    using MicroservicesQuickStart.PostsService.Models;
 
     public class PostsRepository : IPostsRepository
     {

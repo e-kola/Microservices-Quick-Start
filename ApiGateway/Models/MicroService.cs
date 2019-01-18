@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace TVX.Test.ApiGateway.Models
+namespace MicroservicesQuickStart.ApiGateway.Models
 {
     using Core;
 

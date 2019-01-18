@@ -1,12 +1,12 @@
 version: '3.4'
 
 services:
-  tvx.test.postsservice:
+  microservicesquickstart.postsservice.webapi:
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
     ports:
       - "80"
-  tvx.test.commentsservice:
+  microservicesquickstart.commentsservice.webapi:
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
     ports:

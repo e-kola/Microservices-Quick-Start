@@ -9,7 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace TVX.Test.ApiGateway
+namespace MicroservicesQuickStart.ApiGateway
 {
     using Business;
     using Business.Interfaces;

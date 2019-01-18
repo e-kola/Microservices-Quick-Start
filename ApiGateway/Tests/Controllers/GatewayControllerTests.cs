@@ -3,7 +3,7 @@ using System;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace TVX.Test.ApiGateway.UnitTests.Controllers
+namespace MicroservicesQuickStart.ApiGateway.UnitTests.Controllers
 {
     using ApiGateway.Controllers;
     using ApiGateway.Business;

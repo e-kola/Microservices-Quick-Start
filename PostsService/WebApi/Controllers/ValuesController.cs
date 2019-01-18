@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace TVX.Test.PostsService.Controllers
+namespace MicroservicesQuickStart.PostsService.Controllers
 {
     [Route("api/[controller]")]
     public class ValuesController : Controller

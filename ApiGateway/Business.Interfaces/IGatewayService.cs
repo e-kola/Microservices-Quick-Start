@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace TVX.Test.ApiGateway.Business.Interfaces
+namespace MicroservicesQuickStart.ApiGateway.Business.Interfaces
 {
     using Core;
     using Models;

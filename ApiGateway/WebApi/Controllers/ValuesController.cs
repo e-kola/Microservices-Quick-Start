@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace TVX.Test.ApiGateway.Controllers
+namespace MicroservicesQuickStart.ApiGateway.Controllers
 {
     [Route("api/[controller]")]
     public class ValuesController : Controller

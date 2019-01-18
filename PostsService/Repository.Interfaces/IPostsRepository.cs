@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TVX.Test.PostsService.Repository.Interfaces
+namespace MicroservicesQuickStart.PostsService.Repository.Interfaces
 {
     using Models;
 

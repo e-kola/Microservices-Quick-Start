@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace TVX.Test.ApiGateway
+namespace MicroservicesQuickStart.ApiGateway
 {
     public class Program
     {

@@ -9,7 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace TVX.Test.PostsService
+namespace MicroservicesQuickStart.PostsService
 {
     using Business;
     using Business.Interfaces;

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TVX.Test.ApiGateway.Repository
+namespace MicroservicesQuickStart.ApiGateway.Repository
 {
     using Interfaces;
 

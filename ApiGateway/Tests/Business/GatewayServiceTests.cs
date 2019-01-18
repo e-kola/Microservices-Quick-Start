@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using Moq;
 using Xunit;
 
-namespace TVX.Test.ApiGateway.UnitTests.Business
+namespace MicroservicesQuickStart.ApiGateway.UnitTests.Business
 {
     using ApiGateway.Business;
     using ApiGateway.Business.Interfaces;

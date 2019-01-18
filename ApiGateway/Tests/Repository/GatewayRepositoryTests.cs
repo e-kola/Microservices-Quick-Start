@@ -1,7 +1,7 @@
 ﻿using Moq;
 using Xunit;
 
-namespace TVX.Test.ApiGateway.UnitTests.Repository
+namespace MicroservicesQuickStart.ApiGateway.UnitTests.Repository
 {
     using ApiGateway.Repository;
     using ApiGateway.Repository.Interfaces;

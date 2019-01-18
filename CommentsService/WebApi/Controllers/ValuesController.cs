@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace TVX.Test.CommentsService.Controllers
+namespace MicroservicesQuickStart.CommentsService.Controllers
 {
     [Route("api/[controller]")]
     public class ValuesController : Controller

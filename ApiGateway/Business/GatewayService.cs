@@ -2,7 +2,7 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace TVX.Test.ApiGateway.Business
+namespace MicroservicesQuickStart.ApiGateway.Business
 {
     using Core;
     using Interfaces;

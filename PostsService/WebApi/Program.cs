@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace TVX.Test.PostsService
+namespace MicroservicesQuickStart.PostsService
 {
     public class Program
     {

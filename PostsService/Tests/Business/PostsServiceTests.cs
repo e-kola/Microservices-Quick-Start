@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace TVX.Test.PostsService.UnitTests.Business
+namespace MicroservicesQuickStart.PostsService.UnitTests.Business
 {
     using PostsService.Business;
     using PostsService.Business.Interfaces;

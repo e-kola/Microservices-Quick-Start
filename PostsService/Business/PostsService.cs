@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TVX.Test.PostsService.Business
+namespace MicroservicesQuickStart.PostsService.Business
 {
     using Core;
     using Interfaces;

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Xunit;
 
-namespace TVX.Test.PostsService.UnitTests.Repository
+namespace MicroservicesQuickStart.PostsService.UnitTests.Repository
 {
     using PostsService.Repository;
     using PostsService.Repository.Interfaces;

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TVX.Test.Core
+namespace MicroservicesQuickStart.Core
 {
     public interface IMicroserviceDescriptor
     {
