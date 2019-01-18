@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TVX.Test.Core\TVX.Test.Core.csproj" />
+    <ProjectReference Include="..\..\Core\MicroservicesQuickStart.Core.csproj" />
   </ItemGroup>
 
 </Project>

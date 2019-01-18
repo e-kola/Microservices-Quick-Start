@@ -19,9 +19,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TVX.Test.ApiGateway\TVX.Test.ApiGateway.csproj" />
-    <ProjectReference Include="..\TVX.Test.PostsService.Business\TVX.Test.PostsService.Business.csproj" />
-    <ProjectReference Include="..\TVX.Test.PostsService.Repository\TVX.Test.PostsService.Repository.csproj" />
+    <ProjectReference Include="..\..\PostsService\Business\MicroservicesQuickStart.PostsService.Business.csproj" />
+    <ProjectReference Include="..\..\PostsService\Repository\MicroservicesQuickStart.PostsService.Repository.csproj" />
+    <ProjectReference Include="..\WebApi\MicroservicesQuickStart.ApiGateway.WebApi.csproj" />
   </ItemGroup>
 
 </Project>

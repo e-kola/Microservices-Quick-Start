@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TVX.Test.PostsService.Repository.Interfaces\TVX.Test.PostsService.Repository.Interfaces.csproj" />
+    <ProjectReference Include="..\Repository.Interfaces\MicroservicesQuickStart.PostsService.Repository.Interfaces.csproj" />
   </ItemGroup>
 
 </Project>

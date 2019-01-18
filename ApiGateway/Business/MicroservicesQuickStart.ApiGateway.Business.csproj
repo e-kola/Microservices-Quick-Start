@@ -5,9 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TVX.Test.ApiGateway.Business.Interfaces\TVX.Test.ApiGateway.Business.Interfaces.csproj" />
-    <ProjectReference Include="..\TVX.Test.ApiGateway.Models\TVX.Test.ApiGateway.Models.csproj" />
-    <ProjectReference Include="..\TVX.Test.PostsService.Business.Interfaces\TVX.Test.PostsService.Business.Interfaces.csproj" />
+    <ProjectReference Include="..\..\PostsService\Business.Interfaces\MicroservicesQuickStart.PostsService.Business.Interfaces.csproj" />
+    <ProjectReference Include="..\Business.Interfaces\MicroservicesQuickStart.ApiGateway.Business.Interfaces.csproj" />
+    <ProjectReference Include="..\Models\MicroservicesQuickStart.ApiGateway.Models.csproj" />
   </ItemGroup>
 
 </Project>

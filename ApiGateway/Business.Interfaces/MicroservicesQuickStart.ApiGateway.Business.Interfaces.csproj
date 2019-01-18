@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TVX.Test.ApiGateway.Models\TVX.Test.ApiGateway.Models.csproj" />
+    <ProjectReference Include="..\Models\MicroservicesQuickStart.ApiGateway.Models.csproj" />
   </ItemGroup>
 
 </Project>
