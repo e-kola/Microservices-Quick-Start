@@ -1,0 +1,6 @@
+{
+  "projects": [ "ApiGateway", "CommentsService", "Core", "PostsService" ],
+  "sdk": {
+    "version": "2.2.103"
+  }
+}
